@@ -7,7 +7,7 @@ package org.example;
 //java identifiers are case sensitive(Number,NUMBER=both words are not duplicate ,different words)
 
 
-public class Identifiers {
+public class Identifiers1 {
 
     // Instance variable (field) identifier
     private String name;
