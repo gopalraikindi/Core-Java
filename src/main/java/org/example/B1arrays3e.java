@@ -2,7 +2,7 @@ package org.example;
 
 //pending topic page number:37
 
-public class A10arrays3e {
+public class B1arrays3e {
     public static void main(String[] args) {
         int[] a = {1, 2, 3}; // Declare and initialize an integer array
         char[] ch = {'a', 'b'}; // Declare and initialize a character array
