@@ -33,5 +33,5 @@ Null Literal:
 Example: null.
 
 */
-public class Literals2a {
+public class A4Literals2a {
 }

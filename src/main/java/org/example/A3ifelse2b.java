@@ -1,6 +1,6 @@
 package org.example;
 
-public class ifelse2b {
+public class A3ifelse2b {
 
     public static void main(String[] args) {
         int x=0;
