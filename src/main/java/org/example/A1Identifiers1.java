@@ -7,7 +7,7 @@ package org.example;
 //java identifiers are case sensitive(Number,NUMBER=both words are not duplicate ,different words)
 
 
-public class Identifiers1 {
+public class A1Identifiers1 {
 
     // Instance variable (field) identifier
     private String name;
@@ -20,7 +20,7 @@ public class Identifiers1 {
     private String NUMBER;
 
     // Constructor identifier
-    public Identifiers(String name) {
+    public A1Identifiers1(String name) {
         this.name = name;
         count++; // Increment the static count variable
     }
@@ -42,15 +42,15 @@ public class Identifiers1 {
 
     // Main method identifier - the entry point of the program
     public static void main(String[] args) {
-        Identifiers obj1 = new Identifiers("Alice");
-        Identifiers obj2 = new Identifiers("Bob");
+        A1Identifiers1 obj1 = new A1Identifiers1("Alice");
+        A1Identifiers1 obj2 = new A1Identifiers1("Bob");
 
         // Using method identifiers to get and set values
         System.out.println("Object 1 Name: " + obj1.getName());
         System.out.println("Object 2 Name: " + obj2.getName());
 
         // Using the static method identifier to get the count
-        System.out.println("Total Objects Created: " + Identifiers.getCount());
+        System.out.println("Total Objects Created: " + A1Identifiers1.getCount());
 
         // Using the setter method to change the name
         obj1.setName("Charlie");

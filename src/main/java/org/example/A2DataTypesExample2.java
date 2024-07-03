@@ -21,7 +21,7 @@ import java.util.Arrays;
 //the only allowed values for the boolean datatype are 'true' or 'false' where case is important .
 
 
-public class DataTypesExample2 {
+public class A2DataTypesExample2 {
 
     public static void main(String[] args) {
 
