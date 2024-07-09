@@ -1,4 +1,4 @@
-package org.example;
+package Durga.youtube.tutorials.java;
 
 public class A3ifelse2b {
 

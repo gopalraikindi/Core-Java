@@ -1,4 +1,4 @@
-package org.example;
+package Durga.youtube.tutorials.java;
 
 //length vs length()
 

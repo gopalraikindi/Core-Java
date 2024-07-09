@@ -1,4 +1,4 @@
-package org.example;
+package Durga.youtube.tutorials.java;
 
 
 //In Java, a literal is a fixed value

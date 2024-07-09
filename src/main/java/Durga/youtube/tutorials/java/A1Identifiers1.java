@@ -1,4 +1,4 @@
-package org.example;
+package Durga.youtube.tutorials.java;
 
 // identifier is just a name , Either it is class name or varible name or method name
 //we can not use reserved words as identifiers(like datatypes=int,String,Long)

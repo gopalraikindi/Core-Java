@@ -1,4 +1,4 @@
-package org.example;
+package Durga.youtube.tutorials.java;
 
 public class A6arrays3a {
 
