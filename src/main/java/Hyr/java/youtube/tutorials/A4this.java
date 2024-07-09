@@ -10,7 +10,7 @@ method we need to create a object using that obeject we can access the non-stati
 
  public static void main (String[] args){
         A4this A=new A4this();//creating object
-        System.out.println(A.s);//accessing 's' varible from the object
+        System.out.println(A.s);//accessing 's' varible from the object 
 
 2-->there is a one non-static method ,the purpose of this method is call 'instance varibles' from this method .
 Here two-ways are there to call instance varibles from thr non-static method .
