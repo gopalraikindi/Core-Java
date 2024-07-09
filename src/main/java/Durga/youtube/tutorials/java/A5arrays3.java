@@ -1,4 +1,4 @@
-package org.example;
+package Durga.youtube.tutorials.java;
 
 
 //the main advantage of the array is we can represent multiple values under the same name.

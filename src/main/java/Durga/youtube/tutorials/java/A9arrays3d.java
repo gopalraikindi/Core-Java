@@ -1,4 +1,4 @@
-package org.example;
+package Durga.youtube.tutorials.java;
  import java.lang.Integer;
 //In the case of  object type arrays as arrayelement we can provide either declared type or it's child class objects .
 //Number type:int , short ,long ,byte .If we use other types Number type of array it gives error.
