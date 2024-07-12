@@ -11,7 +11,6 @@ public class A3methodcreation {
         checkbalance();
 
 
-
     }
 
     public  static void deposit(){
@@ -37,11 +36,6 @@ public class A3methodcreation {
         System.out.println(currentbalance);
 
         return currentbalance;
-
-
-
-
     }
-
 
 }
